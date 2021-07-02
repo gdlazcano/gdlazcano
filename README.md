@@ -30,3 +30,7 @@ const blogging = {
 <a href="https://twitter.com/DatsGabs" target="_blank">
 <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
+
+<a href="https://github.com/DatsGabs" target="_blank">
+<img src=https://img.shields.io/badge/github-696969.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
+</a>
