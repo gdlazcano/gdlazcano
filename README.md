@@ -4,3 +4,5 @@ My name is Gabriel Lazcano and I'm a self taught fullstack developer. I'm from M
 
 ### Blog & Writing
 Apart from coding, I also maintain a blog - you can find my articles on my website at gabriellazcano.com.
+
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=datsgabs&show_icons=true&theme=dark)
