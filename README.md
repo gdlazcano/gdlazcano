@@ -17,4 +17,4 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <a href="https://github.com/DatsGabs">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=datsgabs&theme=tokyonight" />
 </a>
-</div
+</div>
