@@ -24,3 +24,9 @@ const blogging = {
 
 
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=datsgabs&theme=react-dark)
+
+## Connect with me  
+<div align="center">
+  <a href="https://github.com/DatsGabs" target="_blank">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
