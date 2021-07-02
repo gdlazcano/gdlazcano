@@ -12,6 +12,11 @@ const skills = {
   frameworks   : ['React', 'Node'],
   english      : 'C1 Level from the British Council :)'
 }
+
+const blogging = {
+  at         : "gabriellazcano.com",
+  about      : ['programming', 'cybersecurity', 'tutorials'],
+}
 ```
 
 
