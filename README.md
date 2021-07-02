@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Gabriel Lazcano</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=datsgabs&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+
 ## About me
 
 ```js
