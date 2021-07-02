@@ -5,9 +5,9 @@ My name is Gabriel Lazcano and I'm a self taught fullstack developer. I'm from M
 ## Blog & Writing
 Apart from coding, I also maintain a blog - you can find my articles on my website at gabriellazcano.com.
 
-[![Blog Card](https://github-readme-stats.vercel.app/api/pin/?username=datsgabs&repo=datsgabs.github.io&theme=tokyonight)](https://github.com/DatsGabs/datsgabs.github.io)\
+[![Blog Card](https://github-readme-stats.vercel.app/api/pin/?username=datsgabs&repo=datsgabs.github.io&)](https://github.com/DatsGabs/datsgabs.github.io)\
 
 ## Github Stats
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=datsgabs&theme=react-dark)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datsgabs&layout=compact&theme=tokyonight)](https://github.com/DatsGabs)
-[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=datsgabs)](https://github.com/DatsGabs)
+[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=datsgabs&theme=tokyonight)](https://github.com/DatsGabs)
