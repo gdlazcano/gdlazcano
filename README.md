@@ -10,3 +10,4 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ## Github Stats
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=datsgabs&theme=react-dark)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datsgabs&layout=compact&theme=tokyonight)](https://github.com/DatsGabs)
+[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=datsgabs)](https://github.com/DatsGabs)
