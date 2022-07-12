@@ -18,7 +18,7 @@ const skills = {
 
 const blogging = {
   at: "gabriellazcano.com",
-  about: ['programming', 'cybersecurity', 'tutorials'],
+  about: ['react', 'web design','tutorials'],
 }
 ```
 
