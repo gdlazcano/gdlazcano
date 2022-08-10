@@ -32,6 +32,8 @@ const blogging = {
 
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=datsgabs&theme=react-dark)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DatsGabs&theme=tokyonight_duo)
+
 ## Connect with me  
 
 <a href="https://twitter.com/DatsGabs" target="_blank">
