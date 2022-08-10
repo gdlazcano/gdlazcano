@@ -21,7 +21,9 @@ const blogging = {
   about: ['react', 'web design','tutorials'],
 }
 ```
-
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=datsgabs&theme=react-dark)
 
