@@ -23,11 +23,11 @@ const blogging = {
 ```
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Syntackle Blog Review](https://gabriellazcano.com/blog/syntackle-blog-review/)
 - [React Hooks gives you superpowers](https://gabriellazcano.com/blog/react-hooks-give-you-superpowers/)
 - [Why you might replace Disqus with Webmentions](https://gabriellazcano.com/blog/why-you-might-replace-disqus-with-webmentions/)
 - [Easiest page transitions in React with Framer Motion](https://gabriellazcano.com/blog/easiest-page-transitions-in-react-with-framer-motion/)
 - [Create your own middleware with Chi](https://gabriellazcano.com/blog/create-your-own-middleware-with-chi/)
-- [Custom cursor that inverts colors &lpar;mix-blend-mode&rpar;](https://gabriellazcano.com/blog/create-a-custom-cursor-that-follows-you-and-inverts-colors/)
 <!-- BLOG-POST-LIST:END -->
 
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=datsgabs&theme=react-dark)
