@@ -30,7 +30,7 @@ const blogging = {
 - [Why you might replace Disqus with Webmentions](https://gabriellazcano.com/blog/why-you-might-replace-disqus-with-webmentions/)
 <!-- BLOG-POST-LIST:END -->
 
-\
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gdlazcano&theme=tokyonight_duo)
 
