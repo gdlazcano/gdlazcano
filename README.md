@@ -1,5 +1,5 @@
 # Hi 👋, I'm Gabriel Lazcano
-<img src="https://komarev.com/ghpvc/?username=datsgabs&label=Profile%20views&color=161B22&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=gdlazcano&label=Profile%20views&color=161B22&style=flat" />
 
 ## About me
 
