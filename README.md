@@ -30,9 +30,9 @@ const blogging = {
 - [Why you might replace Disqus with Webmentions](https://gabriellazcano.com/blog/why-you-might-replace-disqus-with-webmentions/)
 <!-- BLOG-POST-LIST:END -->
 
-![github activity graph](https://activity-graph.herokuapp.com/graph?username=datsgabs&theme=react-dark)
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=gdlazcano&theme=react-dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DatsGabs&theme=tokyonight_duo)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gdlazcano&theme=tokyonight_duo)
 
 ## Connect with me  
 
