@@ -23,11 +23,11 @@ const blogging = {
 ```
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Azure vs Google Cloud Services: A comparion of Cloud Platforms](https://gabriellazcano.com/blog/azure/)
 - [Import 3D models in React Three Fiber vs Three.js](https://gabriellazcano.com/blog/import-3d-model-react-three-fiber-vs-three-js-/)
 - [Cyberula Blog Review](https://gabriellazcano.com/blog/cyberula-blog-review/)
 - [Syntackle Blog Review](https://gabriellazcano.com/blog/syntackle-blog-review/)
 - [React Hooks gives you superpowers](https://gabriellazcano.com/blog/react-hooks-give-you-superpowers/)
-- [Why you might replace Disqus with Webmentions](https://gabriellazcano.com/blog/why-you-might-replace-disqus-with-webmentions/)
 <!-- BLOG-POST-LIST:END -->
 
 
